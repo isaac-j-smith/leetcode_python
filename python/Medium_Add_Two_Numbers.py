@@ -43,5 +43,3 @@ class Solution:
         else:
             result = None
         return result
-
-        
