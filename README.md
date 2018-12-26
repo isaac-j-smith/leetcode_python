@@ -1,6 +1,6 @@
 # Python Solutions 
 ## About
-This repo contains my python solutions to various problems found on [LeetCode](leetcode.com) with difficulty ranging from Easy to Medium to Hard. 
+This repo contains my python solutions to various problems found on [LeetCode](https://leetcode.com/problems) with difficulty ranging from Easy to Medium to Hard. 
 ## Hard Problems
 ### Median of Two Sorted Arrays
 File: `Hard_Median_of_Two_Sorted_Arrays.py` <br/><br/>
