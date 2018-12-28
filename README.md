@@ -19,4 +19,22 @@ Problem Description: <br/>
 > 
 > The median is (2 + 3)/2 = 2.5 <br/><br/>
 ## Medium Problems
+### Search a 2D Matrix
+File: `Medium_Search_a_2D_Matrix.py` <br/><br/>
+Solution Details: 136 / 136 test cases passed. Runtime: 36 ms. Runtime beats 100 % of python3 submissions. <br/><br/>
+Problem Description:
+> Write an efficient algorithm that searches for a value in an **m x n matrix**. This matrix has the following properties: <br/>
+> - Integers in each row are sorted from left to right.
+> - The first integer of each row is greater than the last integer of the previous row. <br/><br/>
+>
+> **Example 1:** <br/>
+> **Input**: matrix = [[1,   3,  5,  7],[10, 11, 16, 20],[23, 30, 34, 50]] <br/>
+> target = 3 <br/>
+> **Output**: true <br/><br/>
+> **Example 2:** <br/>
+> **Input**: matrix = [[1,   3,  5,  7],[10, 11, 16, 20],[23, 30, 34, 50]] <br/>
+> target = 13 <br/>
+> **Output**: false <br/><br/>
+
+
 ## Easy Problems
