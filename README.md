@@ -29,3 +29,9 @@ File:`Medium_Add_Two_Numbers.py`
 File:`Easy_Length_of_Last_Word.py`
 
 [Problem Description](https://leetcode.com/problems/length-of-last-word/)
+
+**Reverse Integer**
+
+File:`Easy_Reverse_Integer.py`
+
+[Problem Description](https://leetcode.com/problems/reverse-integer/)
