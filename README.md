@@ -15,3 +15,7 @@ File: `Medium_Search_a_2D_Matrix.py`
 [Problem Description](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ## Easy Problems
+**Length of Last Word**
+File:`Easy_Length_of_Last_Word.py`
+
+[Problem Description](https://leetcode.com/problems/length-of-last-word/)
